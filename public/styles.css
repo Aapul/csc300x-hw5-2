@@ -1,0 +1,12 @@
+/*Styling done for the front end*/
+
+html{
+    background-color:lightblue;
+}
+
+body{
+    display: flex;
+    flex-flow: wrap column;
+    justify-content: center;
+    align-items: center;
+}
